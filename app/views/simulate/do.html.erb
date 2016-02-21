@@ -1,0 +1,24 @@
+<h1>Simulate#do</h1>
+<!-- <p>Find me in app/views/simulate/do.html.erb</p> -->
+
+<p>Car: <%= YAML.load(session[:car]).show_car %></p>
+
+<p id="speed">Current Speed: <%= YAML.load(session[:car]).speed %>mph</p>
+
+<h3>Your lights are: <%= YAML.load(session[:car]).show_lights %></h3>
+
+<form action="/simulate/turn_lights_on_or_off" method="get">
+  <input type="submit" value="lights"/>
+</form>
+
+<form action="/simulate/set_parking_brake" method="get">
+  <input type="submit" value="parking_brake"/>
+</form>
+
+<form action="/car/accelerate" method="get">
+  <input type="submit" value="accelerate"/>
+</form>
+
+<form action="/car/brake" method="get">
+  <input type="submit" value="brake"/>
+</form>
