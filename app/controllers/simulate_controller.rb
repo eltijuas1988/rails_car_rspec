@@ -15,5 +15,4 @@ class SimulateController < ApplicationController
   end
 
   #must put code in here to toggle lights.
-  #Some test comment code
 end
