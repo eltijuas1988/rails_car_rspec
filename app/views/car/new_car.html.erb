@@ -1,16 +1,11 @@
-<!-- ****<h1>Car#new_car</h1> -->
-
 <h1>Welcome to the Car Simulator</h1>
-<!-- <h2>making your dreams come true</h2> -->
-
-<!-- ****<p>Find me in app/views/car/new_car.html.erb</p> -->
 
 <p>Create your dream car by entering Make and Model Year below</p>
 
-<form id="new_car" action="new_car" method="get">
+<form id="new_car" action="/car/new_car" method="get">
   <p><label for="make">Make:</label>
   <input id="make" type="text" name="make" required/></p>
   <p><label for="model_year">Model Year:</label>
-  <input id="model_year" type="text" name="model_year" required/></p>
+  <input id="model_year" type="number" name="model_year" required/></p>
   <input type="submit" value="Click for Dream Car"/>
 </form>

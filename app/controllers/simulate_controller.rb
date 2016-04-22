@@ -4,15 +4,16 @@ class SimulateController < ApplicationController
   end
 
   def turn_lights_on_or_off
-    @car = YAML.load(session[:car])
+    self.do
     @car.lights_toggle
     session[:car] = @car.to_yaml
     redirect_to "/simulate/do"
   end
 
   def set_parking_brake
-
+    self.do
+    @car.parking_brake_toggle
+    session[:car] = @car.to_yaml
+    redirect_to "/simulate/do"
   end
-
-  #must put code in here to toggle lights.
 end

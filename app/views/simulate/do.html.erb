@@ -1,7 +1,8 @@
-<h1>Simulate#do</h1>
+<h1>Time to go for a test drive</h1>
 <!-- <p>Find me in app/views/simulate/do.html.erb</p> -->
 
 <p>Car: <%= YAML.load(session[:car]).show_car %></p>
+<p>Car: <%= YAML.load(session[:car]).inspect %></p>
 
 <p id="speed">Current Speed: <%= YAML.load(session[:car]).speed %>mph</p>
 
@@ -22,3 +23,5 @@
 <form action="/car/brake" method="get">
   <input type="submit" value="brake"/>
 </form>
+
+<h4><%= flash[:alert] %></h4>
