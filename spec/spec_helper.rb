@@ -89,4 +89,19 @@ RSpec.configure do |config|
   # as the one that triggered the failure.
   Kernel.srand config.seed
 =end
+
+  def enter_make_and_model_year
+    visit '/car/new_car'
+    within("form#new_car") do
+      fill_in("make", with: 'Chevrolet')
+      fill_in("model_year", with: '1967')
+    end
+  end
+
+  def car_make_and_model_year_creation
+    enter_make_and_model_year
+    click_button 'Click for Dream Car'
+    # visit '/simulate/do'
+  end
+
 end
