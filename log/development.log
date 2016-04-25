@@ -5476,3 +5476,626 @@ Started GET "/" for ::1 at 2016-04-24 17:14:41 -0700
 Processing by CarController#new_car as HTML
   Rendered car/new_car.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 49ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:15:31 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 444ms (Views: 428.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/assets/car.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:15:32 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:17:55 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/car.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:17:56 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:24:24 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/assets/car.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:24:24 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:24:41 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 27ms (Views: 25.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/car.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:24:41 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:26:59 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 30ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...ound-color: red": expected "{", was ";"):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/car.scss:6
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254892575020'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (18.2ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (54.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (37.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (75.4ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:27:24 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 65ms (Views: 63.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/assets/car.self-03e63c8d270bd6bfa418c4cc53f6d7623a061c4f1c386c855ecbccc3531b03fc.css?body=1" for ::1 at 2016-04-24 18:27:25 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:27:32 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/car.self-03e63c8d270bd6bfa418c4cc53f6d7623a061c4f1c386c855ecbccc3531b03fc.css?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:27:32 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:28:02 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 25ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...round-color red": expected "{", was "}"):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/car.scss:7
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254892575020'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (49.4ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:28:18 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...round-color red": expected "{", was "}"):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/car.scss:7
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254892575020'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.0ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.9ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (23.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (48.0ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:29:22 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...ound-color: red": expected "{", was ""):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/car.scss:7
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254892575020'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.9ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (41.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (24.0ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (52.7ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:31:13 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 80ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/car.self-a2f00a49f49fbe66e4f312b4c7af4df034cdbe65506d899347908c3b451b5452.css?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:31:13 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:31:28 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 68ms (Views: 67.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/car.self-586ceeff4815cd19145018cf78e19930821023925ce2a91cbe98ba723666292d.css?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:31:28 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:32:00 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 47ms (Views: 45.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-4be31a08075a12369f83768fea7a44ade00b2d8df5e97ffd4e3ac164fe4c63dc.css?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:32:01 -0700
+
+
+Started GET "/" for ::1 at 2016-04-24 18:38:56 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 40ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (Invalid CSS after "...Shop Blog About": expected "{", was ""):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/bootstrap-generators.scss:25
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254953400280'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (16.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (43.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.1ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (29.2ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (55.7ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:40:13 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 500 Internal Server Error in 57ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-variables.scss.
+Load paths:
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/images
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/stylesheets
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/stylesheets
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/turbolinks-2.5.3/lib/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/jquery-rails-4.1.0/vendor/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/coffee-rails-4.1.1/lib/assets/javascripts):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/bootstrap-generators.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb___1047204565594421655_70254953400280'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (17.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (48.9ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.9ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (27.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (52.9ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:43:07 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.8ms)
+Completed 500 Internal Server Error in 430ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-variables.scss.
+Load paths:
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/images
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/stylesheets
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/stylesheets
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/fonts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/stylesheets
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/turbolinks-2.5.3/lib/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/jquery-rails-4.1.0/vendor/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/twitter/bootstrap/sass
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/fonts):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/bootstrap-generators.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3972122804740724216_70186854196640'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (15.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.8ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (52.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (37.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (74.2ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:46:09 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.7ms)
+Completed 500 Internal Server Error in 465ms (ActiveRecord: 0.0ms)
+
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-variables.scss.
+Load paths:
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/images
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/stylesheets
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/javascripts
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/vendor/assets/stylesheets
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/fonts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/assets/stylesheets
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/turbolinks-2.5.3/lib/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/jquery-rails-4.1.0/vendor/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/coffee-rails-4.1.1/lib/assets/javascripts
+  /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/bootstrap-generators-3.3.4/vendor/twitter/bootstrap/sass
+  /Users/crimsondex/Desktop/Coding/Git Repos/rails_car_rspec/app/assets/fonts):
+    2: <html>
+    3: <head>
+    4:   <title>CarChallenge</title>
+    5:   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6:   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7:   <%= csrf_meta_tags %>
+    8:   <!-- Special version of Bootstrap that is isolated to content wrapped in .bootstrap-iso -->
+  app/assets/stylesheets/bootstrap-generators.scss:1
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__3124715163177882474_70296640924620'
+  app/controllers/car_controller.rb:4:in `new_car'
+
+
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (21.7ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (60.6ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (50.8ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/crimsondex/.rvm/gems/ruby-2.1.2/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (96.6ms)
+
+
+Started GET "/" for ::1 at 2016-04-24 18:49:54 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5986ms (Views: 5985.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/car.self-586ceeff4815cd19145018cf78e19930821023925ce2a91cbe98ba723666292d.css?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-f503198969e9a8e0ea69cd50ad9ede2c74f43a51a92e7ebb43c6c9231da8c674.css?body=1" for ::1 at 2016-04-24 18:50:00 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-04-24 18:50:00 -0700
