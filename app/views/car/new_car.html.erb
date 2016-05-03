@@ -1,15 +1,20 @@
-<div class="heading">
-  <h1>CarSimulator</h1>
-  <h5>EXPERIENCE</h5>
+<div class="row">
+  <div class="col-lg-8 col-lg-offset-2">
+    <h1 class="text-center">CarSimulator</h1>
+    <h5 class="text-center">EXPERIENCE</h5>
 
-  <h3>Create your dream car by entering Make and Model Year below</h3>
+    <h3 class="text-center">Create your dream car by entering Make and Model Year below</h3>
+  </div>
 </div>
+
 <div class="section">
-  <form id="new_car" action="/car/new_car" method="get">
-    <p><label for="make">Make:</label>
-    <input id="make" type="text" name="make" required autofocus/></p>
-    <p><label for="model_year">Model Year:</label>
-    <input id="model_year" type="number" name="model_year" required/></p>
-    <input type="submit" value="Click for Dream Car"/>
-  </form>
+  <div class="row">
+    <form class="text-center" id="new_car" action="/car/new_car" method="get">
+      <p><label for="make">Make:</label></br>
+      <input id="make" type="text" name="make" required autofocus/></p>
+      <p><label for="model_year">Model Year:</label></br>
+      <input id="model_year" type="number" name="model_year" required/></p>
+      <input type="submit" value="Click for Dream Car"/>
+    </form>
+  </div>
 </div>
