@@ -1,31 +1,29 @@
 <div class="section">
-  <h1>Time to go for a test drive</h1>
-
-  <p>Car: <%= YAML.load(session[:car]).show_car %></p>
-  <p>Car: <%= YAML.load(session[:car]).inspect %></p>
+  <h1 class="text-center">Time to go for a test drive</h1>
+  <h4 class="text-center"><%= YAML.load(session[:car]).show_car %></h4>
 </div>
 
 <div class="heading">
-  <p id="speed">Current Speed: <%= YAML.load(session[:car]).speed %>mph</p>
+  <h4 id="speed">Current Speed: <%= YAML.load(session[:car]).speed %>mph</h4>
 
-  <h3>Your lights are: <%= YAML.load(session[:car]).show_lights %></h3>
+  <h4>Your lights are: <%= YAML.load(session[:car]).show_lights %></h4>
 </div>
 
-<div class="section">
+<div class="section control-group form-inline">
   <form action="/simulate/turn_lights_on_or_off" method="get">
-    <input type="submit" value="lights"/>
+    <input class="btn btn-md btn-primary" type="submit" value="lights"/>
   </form>
 
   <form action="/simulate/set_parking_brake" method="get">
-    <input type="submit" value="parking_brake"/>
+    <input class="btn btn-md btn-primary" type="submit" value="parking_brake"/>
   </form>
 
   <form action="/car/accelerate" method="get">
-    <input type="submit" value="accelerate"/>
+    <input class="btn btn-md btn-primary" type="submit" value="accelerate"/>
   </form>
 
   <form action="/car/brake" method="get">
-    <input type="submit" value="brake"/>
+    <input class="btn btn-md btn-primary" type="submit" value="brake"/>
   </form>
 </div>
 

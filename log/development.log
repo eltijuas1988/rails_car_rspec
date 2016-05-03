@@ -7561,3 +7561,2729 @@ Started GET "/simulate/do" for ::1 at 2016-04-28 21:35:33 -0700
 Processing by SimulateController#do as HTML
   Rendered simulate/do.html.erb within layouts/application (1.2ms)
 Completed 200 OK in 71ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 20:57:36 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 494ms (Views: 477.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 20:57:36 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 20:57:37 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 20:57:37 -0700
+
+
+Started GET "/car/new_car?make=Toyota&model_year=2010" for ::1 at 2016-05-02 20:58:08 -0700
+Processing by CarController#new_car as HTML
+  Parameters: {"make"=>"Toyota", "model_year"=>"2010"}
+Redirected to http://localhost:3000/simulate/do
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 20:58:08 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 54ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 20:59:35 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 20:59:35 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 21:00:26 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 49ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:00:26 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 21:00:42 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 56ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:00:42 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:08:28 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 21:09:25 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 50ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:09:25 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:09:45 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 57ms (Views: 56.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:09:45 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:32:15 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 63ms (Views: 61.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:32:15 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:35:17 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 43.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:35:17 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:35:18 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:35:18 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:35:18 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:35:18 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:35:18 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:43:49 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 47ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:43:49 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:43:50 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:48:38 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:48:38 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:48:50 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 44ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:48:50 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:48:54 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 42ms (Views: 40.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:48:54 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:51:10 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 48ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:51:10 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:51:10 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:51:10 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:51:10 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:51:11 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:52:13 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 56ms (Views: 54.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:52:13 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:52:13 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:52:13 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:52:13 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:52:13 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:52:14 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:52:40 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 164ms (Views: 162.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:52:40 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:53:54 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 54ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:53:54 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:53:55 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:53:55 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:54:04 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 61ms (Views: 56.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:54:04 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:55:18 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 74ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:55:18 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:55:40 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 49ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:40 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:55:50 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 70ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:55:51 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:55:58 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:55:58 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:56:16 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 63ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:56:16 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:56:33 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 54ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:56:33 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:57:04 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 55ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:04 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:57:15 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 71ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:57:15 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:57:16 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:16 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:16 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:57:16 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:16 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:57:24 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 49ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:57:24 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:58:54 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 52ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:58:54 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 21:59:26 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 46ms (Views: 45.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:59:26 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:01:49 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 45ms (Views: 44.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:01:49 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:04:09 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 53ms (Views: 52.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:04:09 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:04:23 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 48ms (Views: 47.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:23 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:04:36 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 55ms (Views: 52.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:04:36 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:04:46 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 46ms (Views: 44.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:04:46 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:04:56 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 73ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:04:56 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:05:22 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:05:22 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:05:37 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:07:22 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 50ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:07:22 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:07:23 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:08:43 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 65ms (Views: 62.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/car.self-d1bed16f19b305e96efec68d7a14f4f8a502a9b4d0c9433aff89024f1274a730.css?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:08:43 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:12:49 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 153ms (Views: 151.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:12:49 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:12:50 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:12:50 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:15:33 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 60ms (Views: 58.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:15:33 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:15:34 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:16:23 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 52ms (Views: 50.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:16:24 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:16:48 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 49ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:16:48 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:16:49 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:16:49 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:16:49 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:16:49 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:16:49 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:22:56 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 46ms (Views: 45.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:22:56 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:24:31 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 54ms (Views: 52.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:24:31 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:24:55 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 57ms (Views: 54.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:24:55 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:27:21 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 126ms (Views: 124.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/car.self-bcacb9ad857ea7569695936410ba4f28a8205470080034a778e4ec55f30f4633.css?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:27:22 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:29:20 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 63ms (Views: 61.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:29:20 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:29:51 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 140ms (Views: 136.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:29:51 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:29:52 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:29:52 -0700
+
+
+Started GET "/" for ::1 at 2016-05-02 22:32:10 -0700
+Processing by CarController#new_car as HTML
+  Rendered car/new_car.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 51ms (Views: 49.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:10 -0700
+
+
+Started GET "/car/new_car?make=Toyota&model_year=2006" for ::1 at 2016-05-02 22:32:18 -0700
+Processing by CarController#new_car as HTML
+  Parameters: {"make"=>"Toyota", "model_year"=>"2006"}
+Redirected to http://localhost:3000/simulate/do
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:32:18 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 54ms (Views: 52.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:32:40 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 62ms (Views: 60.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:32:40 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:32:54 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 54ms (Views: 51.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:32:54 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:34:47 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 97ms (Views: 95.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:34:47 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:34:47 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:34:47 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:34:47 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:34:47 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:34:48 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:39:38 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 53ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:39:38 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:39:39 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:39:48 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 54ms (Views: 52.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:39:48 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:39:48 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:39:49 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:42:09 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 52ms (Views: 50.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:42:09 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:43:00 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 83ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:43:00 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:43:13 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 57ms (Views: 55.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:43:13 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:46:26 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 60ms (Views: 57.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:46:26 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:47:06 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 64ms (Views: 62.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:47:06 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:48:06 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 51ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:48:06 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:55:56 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 49ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:55:56 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:57:00 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 69ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:57:00 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 22:57:24 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 51ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 22:57:24 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:05:42 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 59ms (Views: 56.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:05:42 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:06:32 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 51ms (Views: 49.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:06:32 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:06:33 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:06:33 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:07:32 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 50ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:07:32 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:08:20 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 51ms (Views: 48.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:08:20 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:25:37 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 52ms (Views: 50.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:25:37 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:27:45 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 69ms (Views: 67.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:27:45 -0700
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:27:46 -0700
+
+
+Started GET "/simulate/do" for ::1 at 2016-05-02 23:28:03 -0700
+Processing by SimulateController#do as HTML
+  Rendered simulate/do.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 64ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-d602bdfe68ffc63b9f9cc512872aa3cfff046228a0a36e90dd476e8ef54c1b09.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/bootstrap-variables.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/car.self-110bd76f03fd9e09fe4ee39aa846d2ad1d59a5f4c6b777109395c0caec5e0ecf.css?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/bootstrap-generators.self-8185e9a32a243f9d351035cca2ffdc75e76d8fad1b9f93c990314b96fd2e0e55.css?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/application.self-d0371a799732b9ab067ea771b544798e0e79a9a47fe5dee17ef4e895969ec31a.css?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/simulate.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/car.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/simulate.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
+
+
+Started GET "/assets/jquery.self-c64a74367bda6ef8b860f19e74df08927ca99d2be2ac934e9e92d5fd361e0da4.js?body=1" for ::1 at 2016-05-02 23:28:04 -0700
