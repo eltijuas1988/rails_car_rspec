@@ -9,22 +9,33 @@
   <h4>Your lights are: <%= YAML.load(session[:car]).show_lights %></h4>
 </div>
 
-<div class="section control-group form-inline">
-  <form action="/simulate/turn_lights_on_or_off" method="get">
-    <input class="btn btn-md btn-primary" type="submit" value="lights"/>
-  </form>
+<div class="row section red">
+  <div id="drive_buttons" class="col-md-4 col-md-offset-4" style="padding-left: 160px">
 
-  <form action="/simulate/set_parking_brake" method="get">
-    <input class="btn btn-md btn-primary" type="submit" value="parking_brake"/>
-  </form>
+    <div class="button" style="float: left">
+      <form action="/simulate/turn_lights_on_or_off" method="get">
+        <input class="btn btn-md btn-primary" type="submit" value="lights"/>
+      </form>
+    </div>
 
-  <form action="/car/accelerate" method="get">
-    <input class="btn btn-md btn-primary" type="submit" value="accelerate"/>
-  </form>
+    <div class="button" style="float: left">
+      <form action="/simulate/set_parking_brake" method="get">
+        <input class="btn btn-md btn-primary" type="submit" value="parking_brake"/>
+      </form>
+    </div>
 
-  <form action="/car/brake" method="get">
-    <input class="btn btn-md btn-primary" type="submit" value="brake"/>
-  </form>
+    <div class="button" style="float: left">
+      <form action="/car/accelerate" method="get">
+        <input class="btn btn-md btn-primary" type="submit" value="accelerate"/>
+      </form>
+    </div>
+
+    <div class="button" style="float: left">
+      <form action="/car/brake" method="get">
+        <input class="btn btn-md btn-primary" type="submit" value="brake"/>
+      </form>
+    </div>
+
+  </div>
 </div>
-
 <h4><%= flash[:alert] %></h4>
